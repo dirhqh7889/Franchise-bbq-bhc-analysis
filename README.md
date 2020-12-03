@@ -1,4 +1,4 @@
-# Franchise-bbq-bhc-analysis
+# Franchise-BBQ-BHC-analysis
 # 프랜차이즈(BBQ, BHC) 분석
 
 ## 문제정의
